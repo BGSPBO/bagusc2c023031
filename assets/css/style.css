@@ -1,0 +1,126 @@
+body {
+  font-family: Raleway, sans-serif;
+  background: #f6f8fd;
+}
+
+.bg-nav {
+  background-color: #f6f8fd;
+}
+
+.mt--2 {
+  margin-top: -0.5rem !important;
+}
+
+.hr-dotted {
+  border-top: 1px dotted;
+  opacity: .25;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #212529 !important;
+  font-size: 16px;
+  font-weight: 600;
+  transition: all 0.4s;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #0d6efd !important;
+}
+
+.feature-icon-1 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 5rem;
+  height: 5rem;
+  font-size: 3rem;
+  color: #fff;
+  border-radius: 100%;
+}
+
+.btn-social-media {
+  color: #31316a;
+  background-color: #cdcfdf;
+  border-color: #cdcfdf;
+  width: 2rem;
+  height: 2rem;
+  padding: 1.2rem;
+  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+}
+
+.btn-social-media:hover {
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+
+/* Menambahkan gambar latar belakang pada masing-masing tugas */
+.card-body {
+  background-size: cover; /* Mengatur gambar agar menutupi seluruh area */
+  background-position: center; /* Menempatkan gambar di tengah */
+  background-repeat: no-repeat; /* Gambar tidak akan diulang */
+}
+
+/* Gambar latar belakang untuk Tugas 1 */
+.card.tugas-1 .card-body {
+  background-image: url('assets/img/bg-tugas/TUGAS 1.png');
+}
+
+/* Gambar latar belakang untuk Tugas 2 */
+.card.tugas-2 .card-body {
+  background-image: url('assets/img/bg-tugas/TUGAS 2.png');
+}
+
+/* Gambar latar belakang untuk Tugas 3 */
+.card.tugas-3 .card-body {
+  background-image: url('assets/img/bg-tugas/TUGAS 3.png');
+}
+
+/* Gambar latar belakang untuk Tugas 4 */
+.card.tugas-4 .card-body {
+  background-image: url('assets/img/bg-tugas/TUGAS 4.png');
+}
+
+/* Gambar latar belakang untuk Tugas 5 */
+.card.tugas-5 .card-body {
+  background-image: url('assets/img/bg-tugas/TUGAS 5.png');
+}
+
+/* Gambar latar belakang untuk Tugas 6 */
+.card.tugas-6 .card-body {
+  background-image: url('assets/img/bg-tugas/TUGAS 6.png');
+}
+
+/* Gambar latar belakang untuk Tugas 7 */
+.card.tugas-7 .card-body {
+  background-image: url('assets/img/bg-tugas/TUGAS 7.png');
+}
+
+/* Gambar latar belakang untuk Tugas 8 */
+.card.tugas-8 .card-body {
+  background-image: url('assets/img/bg-tugas/TUGAS 8.png');
+}
+
+/* Gambar latar belakang untuk Tugas 9 */
+.card.tugas-9 .card-body {
+  background-image: url('assets/img/bg-tugas/TUGAS 9.png');
+}
+
+/* Gambar latar belakang untuk Tugas 10 */
+.card.tugas-10 .card-body {
+  background-image: url('assets/img/bg-tugas/TUGAS 10.png');
+}
+
+/* Gambar latar belakang untuk Tugas 11 */
+.card.tugas-11 .card-body {
+  background-image: url('assets/img/bg-tugas/TUGAS 11.png');
+}
+
+/* Gambar latar belakang untuk Tugas 12 */
+.card.tugas-12 .card-body {
+  background-image: url('assets/img/bg-tugas/TUGAS 12.png');
+}
